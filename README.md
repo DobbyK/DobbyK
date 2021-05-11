@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**DobbyK/DobbyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on https://github.com/sukeesh/Jarvis, and some other Private stuff
+- 🌱 I’m currently learning more javascript, and c#
+- 👯 I’m looking to collaborate on any open source project
+- 📫 How to reach me: You can't!
 
-Here are some ideas to get you started:
+Well there isn't much to say I'm your average open source hobby developer, who wants to be a real developer someday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although my interests change all the time, I have always come back to development. Because no matter what I enjoy at the time, I can always develop something for that topic!
+
+My Pfp will probally change alot, but my username will most likely never!
+
+(Stop Reading This)
