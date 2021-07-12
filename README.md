@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://github.com/sukeesh/Jarvis, and some other Private stuff
+- 🔭 I’m currently working on Private stuff
 - 🌱 I’m currently learning more javascript, and c#
 - 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: You can't!
