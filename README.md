@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Private stuff
+- 🔭 I’m currently working on Private stuff and tactics and triumph!
 - 🌱 I’m currently learning more javascript, and c#
 - 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: You can't!
